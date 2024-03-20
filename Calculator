@@ -4,7 +4,7 @@ int main()
 {
 cout<"my name is Jawad Ahmad";
 cout<<"My Roll No is 23-set007";
-cot<"The sum of two numbers are:"a+b;
+cot<"The sum of two numbers are:"a+b;;
 
 
 
