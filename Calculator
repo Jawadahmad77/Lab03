@@ -10,5 +10,6 @@ cout<"The Multiplication of two numbers are:"a*b;
 cout<"The Division of two numbers are:"a/b;
 
 
+
 return 0;
 }
